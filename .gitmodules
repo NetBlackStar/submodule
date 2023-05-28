@@ -1,0 +1,9 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/NetBlackStar/common
+[submodule "service1"]
+	path = service1
+	url = https://github.com/NetBlackStar/service1
+[submodule "service2"]
+	path = service2
+	url = https://github.com/NetBlackStar/service2
